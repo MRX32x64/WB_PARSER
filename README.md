@@ -16,7 +16,7 @@
 
 ```Bash
 git clone https://github.com/MRX32x64/WB_PARSER.git
-cd wildberries-parser
+cd WB_PARSER
 ```
 
 ### 2. Установка зависимостей
