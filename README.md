@@ -14,7 +14,8 @@
 
 ### 1. Клонирование репозитория
 
-git clone <ваш-репозиторий>
+git clone https://github.com/MRX32x64/WB_PARSER.git
+
 cd wildberries-parser
 
 ### 2. Установка зависимостей
