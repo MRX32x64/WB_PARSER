@@ -14,14 +14,13 @@
 
 ### 1. Клонирование репозитория
 
-git clone https://github.com/MRX32x64/WB_PARSER.git
-
-cd wildberries-parser
+`git clone https://github.com/MRX32x64/WB_PARSER.git
+cd wildberries-parser`
 
 ### 2. Установка зависимостей
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 3. Запуск парсера
 
-python wb_parser.py
+`python wb_parser.py`
